@@ -20,5 +20,10 @@
 			<type>1</type>
 			<location>/home/diya/git_workspace/try-eclipse/src/HelloWorld.java</location>
 		</link>
+		<link>
+			<name>src/ipaddress.java</name>
+			<type>1</type>
+			<location>/home/diya/git_workspace/try-eclipse/src/ipaddress.java</location>
+		</link>
 	</linkedResources>
 </projectDescription>
