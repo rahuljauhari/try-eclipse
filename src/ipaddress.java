@@ -18,7 +18,7 @@ class GetMyIPAddress
        */
       System.out.println("My IP Address is:");
       System.out.println(myIP.getHostAddress());
-      System.out.println(myIP.getHostAddress());
+      
       
   }
 }
